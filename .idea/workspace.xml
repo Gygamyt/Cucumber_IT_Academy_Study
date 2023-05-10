@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dc5f902-5f44-4ba1-85ee-faf44ad162eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/it_academy/cucumber_study/driver/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/it_academy/cucumber_study/driver/TestsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/it_academy/cucumber_study/page_objects/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/it_academy/cucumber_study/page_objects/MainPageOnliner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/it_academy/cucumber_study/page_objects/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/it_academy/cucumber_study/cucumber/hooks/ScreenshotHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/it_academy/cucumber_study/cucumber/runner/CucumberTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/SearchTest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PbJhSSEFAYLk6CgnOIhil8USyX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Medle/IdeaProjects/IT_Academy_Cucumber_Study/src/test/resources",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Medle\IdeaProjects\IT_Academy_Cucumber_Study\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CucumberTestRunner">
+    <configuration name="Feature: SearchTest" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/SearchTest.feature" />
+      <option name="GLUE" value="org.it_academy.cucumber_study.cucumber.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="IT_Academy_Cucumber_Study" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: SearchTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Cart should have an added item" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/SearchTest.feature" />
+      <option name="GLUE" value="org.it_academy.cucumber_study.cucumber.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="IT_Academy_Cucumber_Study" />
+      <option name="NAME_FILTER" value="^Cart should have an added item$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Cart should have an added item$&quot;" />
+      <shortenClasspath name="NONE" />
+      <option name="SUGGESTED_NAME" value="Scenario: Cart should have an added item" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberTestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IT_Academy_Cucumber_Study" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.it_academy.cucumber_study.cucumber.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.it_academy.cucumber_study.cucumber.runner" />
+      <option name="MAIN_CLASS_NAME" value="org.it_academy.cucumber_study.cucumber.runner.CucumberTestRunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchAndAddToCartSteps.testsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IT_Academy_Cucumber_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.it_academy.cucumber_study.cucumber.steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.it_academy.cucumber_study.cucumber.steps" />
+      <option name="MAIN_CLASS_NAME" value="org.it_academy.cucumber_study.cucumber.steps.SearchAndAddToCartSteps" />
+      <option name="METHOD_NAME" value="testsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchAndAddToCartSteps.theUserOpensOnlinerSite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IT_Academy_Cucumber_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.it_academy.cucumber_study.cucumber.steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.it_academy.cucumber_study.cucumber.steps" />
+      <option name="MAIN_CLASS_NAME" value="org.it_academy.cucumber_study.cucumber.steps.SearchAndAddToCartSteps" />
+      <option name="METHOD_NAME" value="theUserOpensOnlinerSite" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: SearchTest" />
+      <item itemvalue="Cucumber Java.Scenario: Cart should have an added item" />
+      <item itemvalue="TestNG.CucumberTestRunner" />
+      <item itemvalue="TestNG.SearchAndAddToCartSteps.testsTest" />
+      <item itemvalue="TestNG.SearchAndAddToCartSteps.theUserOpensOnlinerSite" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CucumberTestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Cart should have an added item" />
+        <item itemvalue="TestNG.SearchAndAddToCartSteps.theUserOpensOnlinerSite" />
+        <item itemvalue="Cucumber Java.Feature: SearchTest" />
+        <item itemvalue="TestNG.SearchAndAddToCartSteps.testsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastFrameworkName" value="Selenium" />
+    <option name="lastLanguageId" value="JAVA" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dc5f902-5f44-4ba1-85ee-faf44ad162eb" name="Changes" comment="" />
+      <created>1683719966387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683719966387</updated>
+      <workItem from="1683719968272" duration="12099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
