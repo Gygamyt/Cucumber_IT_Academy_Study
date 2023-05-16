@@ -63,4 +63,10 @@ public class SearchAndAddToCartSteps {
     public void cartIsOpened() {
         productPage.isCheckOutVisible();
     }
+
+    @Then("product in the cart is same to added one")
+    public void productInTheCartIsSameToAddedOne() {
+        System.out.println(productPage.getProductNameInCart() + "sdfjhgioasfghiupsdfsdopfhnoisdfhg");
+        assertThat(requestTittle.contains(productPage.getProductNameInCart())).isTrue();
+    }
 }

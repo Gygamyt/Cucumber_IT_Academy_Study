@@ -10,3 +10,4 @@ Feature: As a user
     And product page is opened
     Then user clicks on first buy button
     Then cart is opened
+    Then product in the cart is same to added one
