@@ -66,7 +66,7 @@ public class SearchAndAddToCartSteps {
 
     @Then("product in the cart is same to added one")
     public void productInTheCartIsSameToAddedOne() {
-        System.out.println(productPage.getProductNameInCart() + "sdfjhgioasfghiupsdfsdopfhnoisdfhg");
+        System.out.println(productPage.getProductNameInCart());
         assertThat(requestTittle.contains(productPage.getProductNameInCart())).isTrue();
     }
 }
